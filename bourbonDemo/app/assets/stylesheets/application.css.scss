@@ -17,3 +17,9 @@
  @import "bourbon";
  @import "articles";
  @import "scaffolds";
+
+h1 {
+  font-family: $helvetica;
+  font-size: golden-ratio(14px,  1);
+  color: #020406;
+}
